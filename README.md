@@ -5,20 +5,20 @@ progressing from beginner to advanced real-world projects.
 
 ## 📌 Planned Projects
 
-1. FastAPI REST API		
-2. Authentication + Role-Based Access		
-3. JWT Auth System		
-4. Streamlit Data Dashboard		
-5. ETL Data Pipeline		
-6. Background Task Queue (Celery/RQ)		
-7. Logging & Monitoring System		
-8. Dockerized Python App		
-9. Mini ML Inference API		
-10. Microservice Architecture Demo		
-11. API Rate Limiter Middleware		
-12. Caching System (Redis style)		
-13. WebSocket Notification Service		
-14. Observability Dashboard
+1. Production-Style FastAPI REST API
+2. Authentication + JWT + Role-Based Access
+3. ETL Data Pipeline
+4. Background Job Processing System
+5. API Caching & Performance Optimization
+6. Real-Time WebSocket Notification Service
+7. API Rate Limiter Middleware
+8. Logging, Monitoring & Observability
+9. Dockerized Python Application
+10. ML Inference API
+11. Multi-Service Python Application
+12. Complete Production-Style Application
+13. End-to-End Production Python System
+14. Observability Dashboard / Production Review
 
 
 ### Clone the repository using the command:
